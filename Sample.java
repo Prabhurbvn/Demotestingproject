@@ -9,6 +9,17 @@ public void add()
  
  System.out.println(c);
 }
+  
+  public void sub()
+  {
+    int a=10,b=5,c;
+    
+    c=a-b;
+    
+    System.out.println(c);
+    
+  }
+  
  
  public static void main(String[] args)
  {
