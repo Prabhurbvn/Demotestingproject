@@ -20,6 +20,13 @@ public void add()
     
   }
   
+  public void mul()
+  {
+    int a=6,b=2,c;
+    c=a*b;
+    System.out.println(c);
+  }
+  
  
  public static void main(String[] args)
  {
