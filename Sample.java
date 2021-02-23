@@ -20,9 +20,9 @@ public void add()
     
   }
   
-  public void mul()
+  public void m()
   {
-    int a=6,b=2,c;
+    int a=60,b=20,c;
     c=a*b;
     System.out.println(c);
   }
