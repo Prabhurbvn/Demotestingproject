@@ -27,6 +27,12 @@ public void add()
     System.out.println(c);
   }
   
+  public void div()
+  {
+    System.out.println("this is div method");
+    System.out.println("Hi");
+  }
+  
  
  public static void main(String[] args)
  {
