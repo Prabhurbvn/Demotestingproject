@@ -30,6 +30,7 @@ public void add()
   public void div()
   {
     System.out.println("this is div method");
+    System.out.println("Hi");
   }
   
  
